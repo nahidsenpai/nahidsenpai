@@ -26,10 +26,6 @@
 
 I enjoy building AI-powered solutions that solve real-world problems through automation, machine learning, and data-driven decision making.
 
----
-
-# 🚀 About Me
-
 ```python
 import sys
 
