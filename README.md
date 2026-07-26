@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Founder+of+Flowifis;AI+Engineer;Machine+Learning;Data+Science+%26+Analytics;AI+Automation;Cybersecurity;Building+Intelligent+Technology"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Solutions;Turning+Data+into+Actionable+Insights;Exploring+Machine+Learning+Every+Day;Automating+Workflows+with+AI;Strengthening+Digital+Security;Always+Learning,+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
