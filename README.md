@@ -156,11 +156,11 @@ if __name__ == "__main__":
 
 <p align="center">
 
-<a href="https://www.hackerrank.com/certificates/c8e1b5b5e9f0" target="_blank">
+<a href="https://www.hackerrank.com/certificates/c8e1b5b5e9f0">
   <img src="https://img.shields.io/badge/HackerRank-Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate"/>
 </a>
 
-<a href="https://www.kaggle.com/learn/certification/shamimofficial/python" target="_blank">
+<a href="https://www.kaggle.com/learn/certification/shamimofficial/python">
   <img src="https://img.shields.io/badge/Kaggle-Python%20Certificate-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Python Certificate"/>
 </a>
 
