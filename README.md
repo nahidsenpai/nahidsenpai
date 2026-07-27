@@ -52,7 +52,7 @@ if __name__ == "__main__":
 
 # 💻 Tech Stack
 
-## Programming Languages
+## Languages
 
 <p align="center">
 
@@ -68,19 +68,19 @@ if __name__ == "__main__":
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-43B02A?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/ipywidgets-FFCA28?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ipywidgets-FFCA28?style=for-the-badge&logo=jupyter&logoColor=black"/>
 
 </p>
 
@@ -168,33 +168,28 @@ if __name__ == "__main__":
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidsenpai&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=nahidsenpai&theme=tokyonight&hide_border=true"
+    height="195"
+    alt="GitHub Streak"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahidsenpai&theme=tokyonight"
+    height="195"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahidsenpai&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahidsenpai&theme=tokyonight" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahidsenpai&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahidsenpai&theme=tokyonight&utcOffset=6" width="49%" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahidsenpai&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
+
 ---
+
 
 # 📬 Connect With Me
 
