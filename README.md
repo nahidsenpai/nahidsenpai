@@ -56,7 +56,7 @@ if __name__ == "__main__":
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql"/>
 
 </p>
 
