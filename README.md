@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=320&color=0:020617,35:0B1B4D,70:6D28D9,100:00F0FF&text=Shamim%20Ahmed%20Nahid&fontSize=52&fontColor=E0F2FE&stroke=00F0FF&strokeWidth=1&animation=twinkling&fontAlignY=36&desc=DATA%20SCIENCE%20%E2%97%86%20AI%20ENGINEERING%0AAI%20AUTOMATION%20%E2%97%86%20CYBERSECURITY&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=320&color=0:020617,35:0B1B4D,70:6D28D9,100:00F0FF&text=Shamim%20Ahmed%20Nahid&fontSize=52&fontColor=E0F2FE&stroke=00F0FF&strokeWidth=1&animation=twinkling&fontAlignY=36&desc=DATA%20SCIENCE%20%E2%97%86%20AI%20ENGINEERING%20%E2%97%86%20AI%20AUTOMATION%20%E2%97%86%20CYBERSECURITY&descSize=18&descAlignY=60" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=40&lines=%3E+Initializing+Shamim+Ahmed+Nahid...;Data+Science+%E2%97%86+AI+Engineering;AI+Automation+%E2%97%86+Cybersecurity;Building+intelligent+systems+for+tomorrow" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&height=40&lines=%3E+Initializing+Shamim+Ahmed+Nahid...;Data+Science+%E2%97%86+AI+Engineering+%E2%97%86+AI+Automation+%E2%97%86+Cybersecurity;Building+intelligent+systems+for+tomorrow" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Solutions;Turning+Data+into+Actionable+Insights;Exploring+Machine+Learning+Every+Day;Automating+Workflows+with+AI;Strengthening+Digital+Security;Always+Learning,+Always+Building" alt="Typing SVG" />
