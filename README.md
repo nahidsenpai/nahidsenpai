@@ -1,28 +1,35 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=320&color=0:020617,35:0B1B4D,70:6D28D9,100:00F0FF&text=Shamim%20Ahmed%20Nahid&fontSize=52&fontColor=E0F2FE&stroke=00F0FF&strokeWidth=1&animation=twinkling&fontAlignY=36&desc=DATA%20SCIENCE%20%E2%97%86%20AI%20ENGINEERING%20%E2%97%86%20AI%20AUTOMATION%20%E2%97%86%20CYBERSECURITY&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=340&color=0:020617,35:0B1B4D,70:6D28D9,100:00F0FF&text=SHAMIM%20AHMED%20NAHID&fontSize=54&fontColor=E0F2FE&stroke=00F0FF&strokeWidth=2&animation=twinkling&fontAlignY=36&desc=DATA%20SCIENCE%20%E2%97%86%20AI%20ENGINEERING%20%E2%97%86%20AI%20AUTOMATION%20%E2%97%86%20CYBERSECURITY&descSize=16&descAlignY=58" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&height=40&lines=%3E+Initializing+Shamim+Ahmed+Nahid...;Data+Science+%E2%97%86+AI+Engineering+%E2%97%86+AI+Automation+%E2%97%86+Cybersecurity;Building+intelligent+systems+for+tomorrow" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&letterSpacing=2px&width=800&height=40&lines=%3E+Initializing+Shamim+Ahmed+Nahid...;%3E+Loading+modules%3A+Data+Science+%E2%97%86+AI+Engineering;%3E+Loading+modules%3A+AI+Automation+%E2%97%86+Cybersecurity;%3E+Status%3A+Building+intelligent+systems+for+tomorrow" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F0FF?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/PYTHON-0B1B4D?style=for-the-badge&logo=python&logoColor=00F0FF&labelColor=020617" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-0B1B4D?style=for-the-badge&logo=typescript&logoColor=00F0FF&labelColor=020617" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-0B1B4D?style=for-the-badge&logo=javascript&logoColor=00F0FF&labelColor=020617" />
+  <img src="https://img.shields.io/badge/AI-6D28D9?style=for-the-badge&logo=openai&logoColor=white&labelColor=020617" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-6D28D9?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=020617" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=2&color=0:00F0FF,50:6D28D9,100:00F0FF" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Solutions;Turning+Data+into+Actionable+Insights;Exploring+Machine+Learning+Every+Day;Automating+Workflows+with+AI;Strengthening+Digital+Security;Always+Learning,+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=nahidsenpai&style=for-the-badge&color=0ea5e9"/>
-
-<a href="https://github.com/nahidsenpai">
-<img src="https://img.shields.io/github/followers/nahidsenpai?style=for-the-badge&logo=github&label=Followers"/>
-</a>
-
-<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Learning-Everyday-22C55E?style=for-the-badge"/>
-
+  <img src="https://hits.sh/github.com/nahidsenpai.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=00F0FF&labelColor=020617" />
+  <a href="https://github.com/nahidsenpai">
+    <img src="https://img.shields.io/github/followers/nahidsenpai?style=for-the-badge&logo=github&logoColor=00F0FF&label=FOLLOWERS&color=0B1B4D&labelColor=020617" />
+  </a>
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-ENTHUSIAST-6D28D9?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=020617" />
+  <img src="https://img.shields.io/badge/LEARNING-EVERY%20DAY-00F0FF?style=for-the-badge&logo=readthedocs&logoColor=020617&labelColor=020617" />
 </p>
 
 ---
